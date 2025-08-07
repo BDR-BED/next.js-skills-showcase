@@ -2,6 +2,8 @@
 
 A demonstration of core and advanced features in **Next.js**, including server-side rendering, API routes, routing, and reusable layouts.
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 ---
 
 ## ✨ Features
